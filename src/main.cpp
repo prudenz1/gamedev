@@ -5,6 +5,7 @@
 
 int main(int argc, char** argv)
 {
+
 	try
 	{
 		auto settings = cg::settings::parse_settings(argc, argv);
